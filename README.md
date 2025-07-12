@@ -1,5 +1,7 @@
 # Neetcode-150---Problem-2
 
+7/09/2025
+
 ## Thought Process
 I knew this would be another for loop problem. The idea is to just traverse through the nums list and appending the values to another list. My initial thought, to save space, was to just use one list; however, a syntax error would happen as a result, so I stuck with using two Lists. 
 
