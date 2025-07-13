@@ -9,6 +9,7 @@ I knew this would be another for loop problem. The idea is to just traverse thro
 I created my ans list, and traversed through the num list. I put all the num variables into their respective spots and then added     (len(nums)) to the i index to be able to reach the further indexes. After the for loop ran, I returned the ans list. 
 
 Initial solution - 0 ms
+
 Complexity - O(n)
 
 ## Takeaways
